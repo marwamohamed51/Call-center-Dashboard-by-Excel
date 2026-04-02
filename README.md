@@ -12,7 +12,7 @@ The **dashboard layout and UI design were first created using Figma**, then impl
 
 ## 🖼 Dashboard Preview
 
-[Call Center Dashboard](Call center.png)
+![Call Center Dashboard](Call_center.png)
 
 ---
 
